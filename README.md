@@ -139,8 +139,20 @@ python examples/make_toy_data.py --output data/aerosense_demo_500.pkl --num_samp
 
 ## Citation
 
-If you use this implementation, please cite the corresponding AeroSense paper.
+If you use this implementation, please cite our AeroSense paper:
 
+```bibtex
+@misc{wang2026aerosense,
+  title={Unlocking air traffic flow prediction through microscopic aircraft-state modeling},
+  author={Wang, Bin and Liu, Anqi and Zhao, Jiangtao and Huang, Yanyong and He, Peilan and Jiang, Guiyuan and Hong, Feng and Yu, Yanwei and Li, Tianrui},
+  year={2026},
+  eprint={2605.10083},
+  archivePrefix={arXiv},
+  primaryClass={cs.LG},
+  doi={10.48550/arXiv.2605.10083},
+  url={https://arxiv.org/abs/2605.10083}
+}
+```
 ## License
 
 This project is released under the Apache License 2.0.
