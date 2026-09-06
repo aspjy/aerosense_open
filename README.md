@@ -247,7 +247,7 @@ For each target airspace, an aircraft contributes once if it appears in that reg
 
 ##  9. Experimental Setting
 
-The default configuration in `optDir/opt.json` is a lightweight setting for running the released demo.
+The default configuration in `optDir/opt.json` follows the experimental configuration reported in the manuscript.
 
 The full-scale experiments reported in the paper use the experimental protocol described in the manuscript, including:
 
